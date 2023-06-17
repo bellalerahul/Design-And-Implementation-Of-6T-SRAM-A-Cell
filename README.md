@@ -1,15 +1,15 @@
 # Mini_project_1
 
-#ABSTRACT  
+# ABSTRACT  
 Static Random Access Memory (SRAM) is one of the core components in the digital world. Generally, it consumes enormous amount of power and die area. Thereby extensive research in SRAM is in progress related power dissipation, memory chip area and supply voltage requirement. In this paper SRAM analysis in terms of Static Noise Margin, Data Retention Voltage, Read Margin (RM) and Write Margin (WM) for low power application is considered. Static Noise Margin (SNM) is one of the most essential parameters for memory design because it affects both read and write margin. SNM is related to the threshold voltages of the Negative Metal Oxide Semiconductor (NMOS) and Positive Metal-Oxide Semiconductor (PMOS) devices of the SRAM cell. High Read and Write Noise Margin are also significant challenges in the design of SRAM. 
 Performance analysis is estimated in 6T-SRAM designed and implemented using Cadence Virtuoso Tool
 
 
-#INTRODUCTION 
+# INTRODUCTION 
 SRAM  is a type of Random Access Memory (RAM) that retains data bits in its memory as long as power is being supplied. Unlike Dynamic RAM (DRAM), which must be continuously refreshed, SRAM does not have this requirement, resulting in better performance and lower power usage. However, SRAM is also more expensive than DRAM, and it requires a lot more space. Stability in SRAM when designed using the Complementary Metal–Oxide– Semiconductor (CMOS) technologies generally depend on the SNM. SRAM memory technology is used because of its speed and robustness. As the device is scaled down in sizes several design challenges arise in the nanometre size SRAM design. In an SRAM cell operation generally supply voltage scaling is performed. Reducing the VDD reduces subthreshold leakage current and gate leakage. For analysing high speed SRAM calculation of read margin and WM is necessary.  Nowadays focus is on low supply voltage which reduces the SNM. The stability of SRAM cell can be analysed based on the SNM value because performance is proportional to the SNM.
 
 
-#LITERATURE SURVEY 
+# LITERATURE SURVEY 
 
 Soumya Gadag et al.,[1] Their research on the critical issue of power consumption reduction in VLSI (Very Large Scale 
 Integration). To reduce power loss, they used strategies like sleep and stacking. The design was developed using 0.18um CMOSbased technology, and the power dissipation was assessed using the microwind tool at the BSIM4 level.Surprisingly, their 
@@ -159,7 +159,7 @@ study examines the gate range of coverage of different fin designs with the goal
 properties for various fin shapes of TFETs, including drive current, leakage current, and subthreshold slope, are calculated 
 using the TCAD simulation programme. This shows TFETS functions better.
 
-#METHODOLOGY
+# METHODOLOGY
 Design the SRAM cell schematic. This involves drawing the schematic of the 6T SRAM cell, including the two inverters, the two access transistors, and the bit lines.
 Simulate the SRAM cell. This involves simulating the operation of the SRAM cell using the Cadence Virtuoso simulator. The simulation should verify that the SRAM cell can store and retrieve data correctly.
 Layout the SRAM cell. This involves laying out the SRAM cell in a physical design environment. The layout should be optimized for area, power, and performance.
@@ -170,7 +170,7 @@ Generate the final design file. This involves generating the final design file t
 
 ![aa](https://github.com/bellalerahul/Mini_project_1/assets/93982029/a1bee354-1c83-41b3-8c03-382d28c5b8e6)
 
-#REFERENCES
+# REFERENCES
 
 [1] 1.Soumya Gadag*, Raviraj D.Chougala*,“Design and Analysis of 6T SRAM Cell with low Power Dissipation”, 
 (IJERA) ISSN: 2248-9622 Vol. 2, Issue 6, November- December 2012, pp.1695-1698.
