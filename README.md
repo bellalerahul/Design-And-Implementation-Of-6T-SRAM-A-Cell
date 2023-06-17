@@ -53,6 +53,17 @@ Schematic for designing the SRAM cell. This includes drawing of a 6T SRAM cell c
  
  ![aa](https://github.com/bellalerahul/Mini_project_1/assets/93982029/a1bee354-1c83-41b3-8c03-382d28c5b8e6)
 
+ # CONCLUSION
+
+Based on the results, the following conclusion is depicted in the table.
+comparative analysis of 6T SRAM for 180nm,90nm and 45 nm technology.
+
+Technology 	Voltage 	Power consumption 
+180nm 	1.9v 	666.7891uW 
+90nm 	1.2v 	99.2415uW 
+45nm 	0.7v 	4.5848uW 
+
+
 # REFERENCES
 
 [1] 1.Soumya Gadag*, Raviraj D.Chougala*,“Design and Analysis of 6T SRAM Cell with low Power Dissipation”, 
