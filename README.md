@@ -55,17 +55,20 @@ Schematic for designing the SRAM cell. This includes drawing of a 6T SRAM cell c
 
  
 # REFERENCES
-
-[1] 1.Soumya Gadag*, Raviraj D.Chougala*,“Design and Analysis of 6T SRAM Cell with low Power Dissipation”, 
+* [1]Soumya Gadag*, Raviraj D.Chougala*,“Design and Analysis of 6T SRAM Cell with low Power Dissipation”, 
 (IJERA) ISSN: 2248-9622 Vol. 2, Issue 6, November- December 2012, pp.1695-1698.
-[2]Michael C. Wang,“Low Power Dual Word Line 6-Transistor SRAMs”,Roceedings of the World Congress on 
+
+* [2]Michael C. Wang,“Low Power Dual Word Line 6-Transistor SRAMs”,Roceedings of the World Congress on 
 Engineering and Computer Science 2009 Vol I WCECS 2009, October 20-22, 2009/, San Francisco, USA,’.
-[3] Evelyn Grossar, Michele Stucchi, Karen Maex, Member, IEEE,”Read Stability and Write-Ability Analysis 
+
+* [3] Evelyn Grossar, Michele Stucchi, Karen Maex, Member, IEEE,”Read Stability and Write-Ability Analysis 
 ofSRAM Cells for Nanometer Technologies”,IEEE JOURNAL OF SOLID-STATE CIRCUITS, VOL. 41, NO. 11, 
 NOVEMBER 2006.
-[4] 4.Akshay Bhaskar,“Design and Analysis of Low Power SRAM Cells”,International Conference on Innovations in 
+
+* [4] 4.Akshay Bhaskar,“Design and Analysis of Low Power SRAM Cells”,International Conference on Innovations in 
 Power and Advanced Computing Technologies [i-PACT2017].
-[5]Mukesh Kumar,Jagpal Singh Ubhi ,“Performance Evaluation of 6T, 7T & 8T SRAM at 180 nm Technology” ,8th 
+
+* [5]Mukesh Kumar,Jagpal Singh Ubhi ,“Performance Evaluation of 6T, 7T & 8T SRAM at 180 nm Technology” ,8th 
 ICCCNT 2017 July 3 - 5, 2017, IIT Delhi, Delhi, India.
 
 
